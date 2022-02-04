@@ -1,0 +1,76 @@
+Windows internals resources that I have collected in around an year #infosec
+Win32 programming with code examples: https://installsetupconfig.com/win32programming/
+
+ Notes for Windows API programming;
+https://caiorss.github.io/C-Cpp-Notes/WindowsAPI-cpp.html
+
+Windows undocumented functions' docs:
+http://undoc.airesoft.co.uk
+
+Windows undocumented stuff's docs:
+https://geoffchappell.com/index.htm
+
+Windows Internals Book 7th edition Tools
+https://github.com/zodiacon/windowsinternals
+
+Full source code of reactos (open source reimplementation of windows)
+https://doxygen.reactos.org/index.html
+
+Explanation of key data structures used by device drivers, kernel and HAL
+https://codemachine.com/articles/kernel_structures.html
+Take a look into the depths of Windows kernels and reveal more than 60000 undocumented structures
+
+Understanding EPROCESS data structure
+https://info-savvy.com/understanding-eprocess-structure/
+
+Great blog on windows internals stuff
+https://wumb0.in
+
+Another one by voidsec
+https://voidsec.com
+
+Yet another
+https://poppopret.blogspot.com/?m=1
+
+Resources For Advanced Windows Development and Reverse Engineering
+Who is this intended for? 
+	Malware Analysts, Reverse Engineers, Security Researchers, Malware Developers, Exploit Developers
+================================================================================================================================
+Windows Programming Books:
+Windows Kernel Programming (Pavel Yosifovich) - https://leanpub.com/windowskernelprogramming
+Windows 10 System Programming, Part 1 (Pavel Yosifovich) - https://leanpub.com/windows10systemprogramming
+Windows 10 System Programming, Part 2 (Pavel Yosifovich) - https://leanpub.com/windows10systemprogrammingpart2
+================================================================================================================================
+Windows and OS Internals:
+What Makes It Page?: The Windows 7 (x64) Virtual Memory Manager 
+Windows Internals, Part 1 (Developer Reference) 7th Edition 
+MSDN WDM Kernel Driver Development Framework Documentation
+Operating Systems: Three Easy Pieces
+================================================================================================================================
+Security and Malware Related:
+Rootkits and Bootkits: Reversing Modern Malware and Next Generation Threats
+Rootkits: Subverting the Windows Kernel
+Practical Malware Analysis: The Hands-on Guide to Dissecting Malicious Software
+Mastering Malware Analysis: The Complete Malware Analyst's Guide to Combating Malicious Software, APT, Cybercrime, and IoT Attacks
+The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory
+The Ghidra Book: The Definitive Guide
+The IDA Pro book
+================================================================================================================================
+Online Courses and Classes:
+WinDbg Fundamentals: User Mode- https://www.pentesteracademy.com/course?id=52
+WinDbg Fundamentals: Kernel Mode- https://www.pentesteracademy.com/course?id=53
+https://www.pluralsight.com/courses/windows-internals
+https://www.pluralsight.com/courses/windows-internals2
+https://www.pluralsight.com/courses/windows-internals-3
+https://www.pluralsight.com/courses/windows-10-internals-system-processes
+https://www.pluralsight.com/courses/windows-10-internals-threads-memory-security
+RED TEAM Operator: Malware Development Essentials Course (Sektor7)
+RED TEAM Operator: Malware Development Intermediate Course (Sektor7)
+Zero2Automated Ultimate Reverse Engineering Course - https://courses.zero2auto.com/adv-malware-analysis-course
+================================================================================================================================
+Certifications:
+Windows User Mode Exploit Development (EXP-301)
+Advanced Windows Exploitation (EXP-401)
+SEC760: Advanced Exploit Development for Penetration Testers
+GIAC Reverse Engineering Malware (GREM)
+
